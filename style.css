@@ -1,0 +1,26 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+input {
+	padding: 5px;
+	margin: 5px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+button {
+	padding: 5px;
+	margin: 5px;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+button:hover {
+	cursor: pointer;
+}
+label {
+	padding: 5px;
+}
+.checkbox_text {
+	display: inline-block;
+	vertical-align: baseline;
+}
+.results {
+	padding: 5px;
+}
